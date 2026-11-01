@@ -1,0 +1,7 @@
+loan_id,obs_year,segment,region,product,loan_amount,rating,status
+L013,2026,Retail,Bavaria,Consumer,10000,4,active
+L014,2026,SME,Berlin,Business,175000,3,active
+L015,2026,Retail,Hesse,Mortgage,220000,5,active
+L016,2026,Corporate,Bavaria,Business,400000,2,active
+L017,2026,Retail,Berlin,Consumer,9000,10,default
+L018,2026,SME,Hesse,Business,130000,7,active

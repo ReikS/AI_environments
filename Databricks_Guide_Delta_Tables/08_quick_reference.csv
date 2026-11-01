@@ -1,0 +1,12 @@
+Task,PySpark,SQL
+Create schema,spark.sql("CREATE SCHEMA ..."),CREATE SCHEMA catalog.schema
+Read CSV,spark.read.option(...).csv(path),"read_files(path, format => 'csv', ...)"
+Read Excel,pd.read_excel(path) then spark.createDataFrame,(built-in Excel support on recent runtimes)
+Create table,df.write.saveAsTable(name),CREATE TABLE name AS SELECT
+Append,df.write.mode("append").saveAsTable(name),INSERT INTO name SELECT
+Update by key,(use SQL),MERGE INTO ... WHEN MATCHED THEN UPDATE
+Delete rows,(use SQL),DELETE FROM name WHERE ...
+History,spark.sql("DESCRIBE HISTORY t"),DESCRIBE HISTORY t
+Old version,spark.read.option("versionAsOf", 2).table(name),SELECT ... VERSION AS OF 2
+Restore,(use SQL),RESTORE TABLE t TO VERSION AS OF 2
+Grant,(use SQL),GRANT SELECT ON TABLE t TO principal

@@ -1,0 +1,4 @@
+loan_id,obs_year,new_status
+L004,2025,cured
+L009,2025,default
+L015,2026,default

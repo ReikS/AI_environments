@@ -1,0 +1,13 @@
+loan_id,obs_year,segment,region,product,loan_amount,rating,status
+L001,2025,Retail,Bavaria,Mortgage,250000,2,active
+L002,2025,Retail,Berlin,Consumer,15000,5,active
+L003,2025,SME,Hesse,Business,120000,3,active
+L004,2025,Retail,Bavaria,Consumer,8000,7,default
+L005,2025,SME,Berlin,Business,200000,6,active
+L006,2025,Corporate,Hesse,Business,500000,1,active
+L007,2025,Retail,Berlin,Mortgage,180000,4,active
+L008,2025,SME,Bavaria,Business,90000,8,default
+L009,2025,Retail,Hesse,Consumer,12000,6,active
+L010,2025,Corporate,Berlin,Business,350000,2,active
+L011,2025,Retail,Bavaria,Consumer,20000,9,default
+L012,2025,SME,Hesse,Business,150000,5,active

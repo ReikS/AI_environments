@@ -1,0 +1,5 @@
+Item,Requirement
+Email address,"Any personal or work email; verified via one-time password (OTP). Alternatively sign in with Google or Microsoft."
+Payment details,"None. No credit card, no cloud account, no time limit."
+Software,"A browser only. Nothing is installed locally."
+Data,"Small synthetic files, provided as CSV downloads (files 01-03)."

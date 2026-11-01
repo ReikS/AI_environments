@@ -1,0 +1,7 @@
+Limitation,Consequence for the guide
+Serverless compute only with limited size and daily usage quota,"Keep datasets small (this guide uses under 40 rows). If you exceed the quota, compute pauses until the next day; your data is not deleted."
+Outbound internet access is restricted,"Do not try to download files from the web inside a notebook. Upload files through the UI instead."
+One workspace one catalog single user,"You practice GRANT syntax, but you cannot test real sharing with colleagues. This is the one topic to complete at work."
+R and Scala are not supported,"This guide uses Python and SQL only, which matches your use case."
+Non-commercial use only,"Fine for training. Never put real bank data here."
+Accounts inactive for a prolonged period may be deleted,"Finish the guide in one session; download your notebook afterwards if you want to keep it."

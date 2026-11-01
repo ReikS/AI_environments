@@ -1,0 +1,5 @@
+Object,Type,Content
+risk_training.raw_files,Volume,Three uploaded source files
+risk_training.loans_raw,Delta table,"18 loan-year observations, merged corrections, 3+ versions"
+risk_training.default_rates_by_rating,Delta table,Aggregated default rates by rating class
+risk_training.default_rates_by_segment,Delta table,Segment-level aggregation
