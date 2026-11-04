@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] /Count 6 >>
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R] /Count 8 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
@@ -13,484 +13,626 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
-endobj
-6 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
 endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
 7 0 obj
-<< /Length 8355 >>
-stream
-0.06 0.16 0.33 rg BT /F2 20.0 Tf 1 0 0 1 56.00 751.89 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET 0 0 0 rg
-0.25 0.25 0.25 rg BT /F1 10.5 Tf 1 0 0 1 56.00 729.89 Tm (Recommended stack: Cline \(VS Code extension\) + qwen/qwen3-30b-a3b-thinking-2507 \(Q4_K_M\)) Tj ET 0 0 0 rg
-0.25 0.25 0.25 rg BT /F1 10.5 Tf 1 0 0 1 56.00 714.89 Tm (Inference backend: LM Studio Bionic Local Model API at http://localhost:1235/v1 \(llama.cpp, Vulkan\)) Tj ET 0 0 0 rg
-0.45 0.45 0.45 rg BT /F1 9.0 Tf 1 0 0 1 56.00 693.89 Tm (Environment: Windows 11 \(no WSL2\) | AMD Radeon RX 9060 XT, 16 GB VRAM | Local git + LaTeX Workshop | October 29, 2026 | Prepared for Reik Schottstedt) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.4 w 56.00 677.89 m 539.28 677.89 l S 0 0 0 RG
-0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 643.89 Tm (Overview of the Recommended Stack) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.0 w 56.00 637.89 m 539.28 637.89 l S 0 0 0 RG
-0.09 0.20 0.40 rg 56.00 607.39 483.28 18.50 re f 0 0 0 rg
-1.00 1.00 1.00 rg BT /F2 9.0 Tf 1 0 0 1 61.00 612.89 Tm (Component) Tj ET 0 0 0 rg
-1.00 1.00 1.00 rg BT /F2 9.0 Tf 1 0 0 1 134.54 612.89 Tm (Choice) Tj ET 0 0 0 rg
-1.00 1.00 1.00 rg BT /F2 9.0 Tf 1 0 0 1 271.12 612.89 Tm (Rationale) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 607.39 m 539.28 607.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 594.39 Tm (VS Code) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 582.89 Tm (extension) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 134.54 594.39 Tm (Cline) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 594.39 Tm (The only maintained open-source VS Code agent with a) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 582.89 Tm (dedicated LM Studio provider, a compact-prompt mode for local) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 571.39 Tm (models, a visible Thinking section, and granular auto-approval up) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 559.89 Tm (to full YOLO mode. Roo Code was archived in May 2026; Kilo) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 548.39 Tm (Code works but adds multi-agent features a beginner does not) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 536.89 Tm (need.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 531.39 m 539.28 531.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 518.39 Tm (Model) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 134.54 518.39 Tm (qwen/qwen3-30b-a3b-thinking-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 134.54 506.89 Tm (2507) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 518.39 Tm (Always-thinking reasoning model explicitly flagged "Trained for) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 506.89 Tm (tool use" in the LM Studio catalog; 30.5B total parameters with) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 495.39 Tm (only 3.3B active per token, so it runs acceptably even when part) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 483.89 Tm (of the weights sit in system RAM.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 478.39 m 539.28 478.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 465.39 Tm (Quantization) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 134.54 465.39 Tm (Q4_K_M GGUF \(approx. 18.6) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 134.54 453.89 Tm (GB\)) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 465.39 Tm (The practical 4-bit floor recommended for coding agents; Q3) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 453.89 Tm (quants measurably degrade tool-call reliability. On 16 GB VRAM) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 442.39 Tm (a small share of the experts is held in system RAM; LM Studio) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 430.89 Tm (lists 17 GB minimum system memory.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 425.39 m 539.28 425.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 412.39 Tm (Endpoint) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 134.54 412.39 Tm (http://localhost:1235/v1) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 412.39 Tm (Your existing LM Studio Bionic Local Model API with just-in-time) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 400.89 Tm (model loading; the Vulkan backend of llama.cpp serves the) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 389.39 Tm (Radeon GPU.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 383.89 m 539.28 383.89 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 370.89 Tm (Permissions) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 134.54 370.89 Tm (Fully automatic \(YOLO Mode\)) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 370.89 Tm (Per your preference; safety net provided by Cline checkpoints) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 271.12 359.39 Tm (plus the local git repository \(see Sections 4 and 5\).) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 353.89 m 539.28 353.89 l S 0 0 0 RG
-0.98 0.95 0.82 rg 56.00 256.89 483.28 89.00 re f 0 0 0 rg
-0.85 0.70 0.25 RG 0.7 w 56.00 345.89 m 56.00 256.89 l S 0 0 0 RG
-0.50 0.35 0.05 rg BT /F2 9.5 Tf 1 0 0 1 66.00 327.59 Tm (Important:) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 115.61 326.39 Tm (Why not gpt-oss-20b? Although it fits fully within 16 GB VRAM and is a strong native tool caller, it) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 66.00 313.89 Tm (is unusable with Cline: Cline drives models with its own XML tool-call format rather than native) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 66.00 301.39 Tm (function calling, and gpt-oss answers in its native harmony format. The Cline team confirmed) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 66.00 288.89 Tm (gpt-oss models "are terrible in Cline", and AMD's Cline + LM Studio model testing excluded) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 66.00 276.39 Tm (gpt-oss-20b for broken tool behavior. Qwen3-30B-A3B-Thinking-2507 is the model that satisfies) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 66.00 263.89 Tm (all three of your requirements \(thinking, tool calling, local git commits\) at this VRAM tier.) Tj ET 0 0 0 rg
-0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 239.89 Tm (Prerequisites Checklist) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.0 w 56.00 233.89 m 539.28 233.89 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 208.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 208.89 Tm (Windows 11; AMD Radeon RX 9060 XT \(16 GB VRAM\); at least 32 GB system RAM recommended) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 195.89 Tm (\(the model spills 2-3 GB into system RAM at Q4_K_M\).) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 182.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 182.89 Tm (LM Studio Bionic installed, Local Model API running at http://localhost:1235/v1, just-in-time model) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 169.89 Tm (loading enabled \(as per your setup\).) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 156.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 156.89 Tm (VS Code with LaTeX Workshop and a local git repository at) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 143.89 Tm (D:\\E\\Wissensbasis\\Projekte\\Cheatsheet_collection.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 130.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 130.89 Tm (pdflatex available on the Windows PATH \(MiKTeX or TeX Live\); verify with pdflatex --version in) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 117.89 Tm (PowerShell.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 104.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 104.89 Tm (Approximately 19 GB free disk space for the model download.) Tj ET 0 0 0 rg
-0.45 0.45 0.45 rg BT /F1 8 Tf 1 0 0 1 56.0 40.0 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET
-BT /F1 8 Tf 1 0 0 1 505.3 40.0 Tm (Page 1) Tj ET
-0 0 0 rg
-endstream
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 7 0 R >>
+<< /Length 8318 >>
+stream
+0.06 0.16 0.33 rg BT /F2 20.0 Tf 1 0 0 1 56.00 752.00 Tm (Local AI Coding Agent in VS Code: Complete) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 20.0 Tf 1 0 0 1 56.00 726.00 Tm (Setup Guide) Tj ET 0 0 0 rg
+0.25 0.25 0.25 rg BT /F1 10.5 Tf 1 0 0 1 56.00 708.00 Tm (Recommended stack: Cline \(VS Code extension\) + qwen/qwen3-30b-a3b-thinking-2507 \(Q4_K_M\)) Tj ET 0 0 0 rg
+0.25 0.25 0.25 rg BT /F1 10.5 Tf 1 0 0 1 56.00 694.00 Tm (Inference backend: LM Studio Bionic Local Model API at http://localhost:1235/v1 \(llama.cpp, Vulkan\)) Tj ET 0 0 0 rg
+0.25 0.25 0.25 rg BT /F1 10.5 Tf 1 0 0 1 56.00 680.00 Tm (Environment: Windows 11 \(no WSL2\) | AMD Radeon RX 9060 XT, 16 GB VRAM | Local git + LaTeX) Tj ET 0 0 0 rg
+0.25 0.25 0.25 rg BT /F1 10.5 Tf 1 0 0 1 56.00 666.00 Tm (Workshop | November 4, 2026 | Prepared for Reik Schottstedt) Tj ET 0 0 0 rg
+0.25 0.25 0.25 rg BT /F1 10.5 Tf 1 0 0 1 56.00 652.00 Tm (Update of November 4, 2026: Step 3 now uses the OpenAI Compatible provider \(validated on this) Tj ET 0 0 0 rg
+0.25 0.25 0.25 rg BT /F1 10.5 Tf 1 0 0 1 56.00 638.00 Tm (machine\); Step 7 adds the GitHub push workflow with web sign-in.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 612.00 Tm (Overview of the Recommended Stack) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 607.00 m 539.00 607.00 l S 0 0 0 RG
+0.85 0.87 0.91 rg 56.00 574.50 483.00 19.50 re f
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 59.50 581.00 Tm (Component) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 136.78 581.00 Tm (Choice) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 281.68 581.00 Tm (Rationale) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 558.50 Tm (VS Code) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 546.00 Tm (extension) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 136.78 558.50 Tm (Cline) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 558.50 Tm (The only maintained open-source VS Code agent with a) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 546.00 Tm (compact-prompt mode for local models, a visible Thinking) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 533.50 Tm (section, and granular auto-approval up to full YOLO mode.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 521.00 Tm (Roo Code was archived in May 2026; Kilo Code works but) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 508.50 Tm (adds multi-agent features a beginner does not need.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 502.00 m 539.00 502.00 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 489.00 Tm (Model) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 136.78 489.00 Tm (qwen/qwen3-30b-a3b-thinking-2) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 136.78 476.50 Tm (507) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 489.00 Tm (Always-thinking reasoning model explicitly flagged 'Trained) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 476.50 Tm (for tool use' in the LM Studio catalog; 30.5B total) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 464.00 Tm (parameters with only 3.3B active per token, so it runs) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 451.50 Tm (acceptably even when part of the weights sit in system) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 439.00 Tm (RAM.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 432.50 m 539.00 432.50 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 419.50 Tm (Quantization) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 136.78 419.50 Tm (Q4_K_M GGUF \(approx. 18.6) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 136.78 407.00 Tm (GB\)) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 419.50 Tm (The practical 4-bit floor recommended for coding agents; Q3) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 407.00 Tm (quants measurably degrade tool-call reliability. On 16 GB) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 394.50 Tm (VRAM a small share of the experts is held in system RAM;) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 382.00 Tm (LM Studio lists 17 GB minimum system memory.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 375.50 m 539.00 375.50 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 362.50 Tm (Endpoint) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 136.78 362.50 Tm (http://localhost:1235/v1) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 362.50 Tm (Your existing LM Studio Bionic Local Model API with) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 350.00 Tm (just-in-time model loading; the Vulkan backend of llama.cpp) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 337.50 Tm (serves the Radeon GPU.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 331.00 m 539.00 331.00 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 318.00 Tm (Provider setting) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 305.50 Tm (in Cline) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 136.78 318.00 Tm (OpenAI Compatible) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 318.00 Tm (Validated configuration on this machine \(November 4,) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 305.50 Tm (2026\). The dedicated 'LM Studio' provider fails against) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 293.00 Tm (Bionic with an empty-model validation error \(known issue) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 280.50 Tm (cline#10016\); see Step 3 and Step 8.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 274.00 m 539.00 274.00 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 261.00 Tm (Permissions) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 136.78 261.00 Tm (Fully automatic \(YOLO Mode\)) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 261.00 Tm (Per your preference; safety net provided by Cline) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 248.50 Tm (checkpoints plus the local git repository \(see Sections 4 and) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 236.00 Tm (5\). Git commits are automatic; pushes to GitHub run after a) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 281.68 223.50 Tm (one-time web sign-in \(Step 7\).) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 217.00 m 539.00 217.00 l S 0 0 0 RG
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 208.00 Tm (Important: Why not gpt-oss-20b? Although it fits fully within 16 GB VRAM and is a strong native tool caller,) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 194.80 Tm (it is unusable with Cline: Cline drives models with its own XML tool-call format rather than native function) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 181.60 Tm (calling, and gpt-oss answers in its native harmony format. The Cline team confirmed gpt-oss models 'are) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 168.40 Tm (terrible in Cline', and AMD's Cline + LM Studio model testing excluded gpt-oss-20b for broken tool) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 155.20 Tm (behavior. Qwen3-30B-A3B-Thinking-2507 is the model that satisfies all three of your requirements) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 142.00 Tm (\(thinking, tool calling, local git commits\) at this VRAM tier.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 112.80 Tm (Prerequisites Checklist) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 107.80 m 539.00 107.80 l S 0 0 0 RG
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 90.80 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 90.80 Tm (Windows 11; AMD Radeon RX 9060 XT \(16 GB VRAM\); at least 32 GB system RAM recommended) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 77.10 Tm (\(the model spills 2-3 GB into system RAM at Q4_K_M\).) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 56.00 40.00 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 512.06 40.00 Tm (Page 1) Tj ET 0 0 0 rg
+endstream
 endobj
 9 0 obj
-<< /Length 8589 >>
-stream
-0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 769.89 Tm (Step 1: Configure LM Studio Bionic) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.0 w 56.00 763.89 m 539.28 763.89 l S 0 0 0 RG
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 743.89 Tm (1.1  Download the model) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 717.89 Tm (1.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 717.89 Tm (In Bionic, open Settings -> Local Models -> Explore \(in classic LM Studio this tab is called Discover\).) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 704.89 Tm (2.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 704.89 Tm (Search for "qwen3-30b-a3b-thinking-2507" and select the entry qwen/qwen3-30b-a3b-thinking-2507) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 691.89 Tm (\(GGUF, publisher lmstudio-community\).) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 678.89 Tm (3.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 678.89 Tm (Choose the Q4_K_M quantization \(approximately 18.6 GB\) and confirm the download. This is the) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 665.89 Tm (only model you need.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 652.89 Tm (4.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 652.89 Tm (Ignore any device-fit warning that the file exceeds 16 GB VRAM: only 3.3B parameters are active per) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 639.89 Tm (token, so a partial hold in system RAM costs little speed.) Tj ET 0 0 0 rg
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 626.89 Tm (1.2  Set the model default load configuration \(critical\)) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 600.89 Tm (Known issue: just-in-time loading defaults to a 16,384-token context window, while Cline's system prompt) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 587.89 Tm (including tool definitions already consumes roughly 25,000 tokens. With the default you will see "context) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 574.89 Tm (window exceeded" errors or a model that loses the task after two or three tool calls. Fix this once,) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 561.89 Tm (permanently:) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 542.89 Tm (1.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 542.89 Tm (Open My Models \(sidebar\) and find the card for qwen/qwen3-30b-a3b-thinking-2507.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 529.89 Tm (2.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 529.89 Tm (Click the gear icon on the model card to open the default load parameters.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 516.89 Tm (3.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 516.89 Tm (Set Context Length to 32768 and GPU offload to the maximum suggested value, then save. These) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 503.89 Tm (parameters apply to every future JIT load.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 56.00 485.89 Tm (Alternative via the lms command line \(Bionic 1.1.8 restored lms compatibility\):) Tj ET 0 0 0 rg
-0.94 0.95 0.97 rg 56.00 434.89 483.28 45.00 re f 0 0 0 rg
-0.70 0.72 0.76 RG 0.7 w 56.00 479.89 m 56.00 434.89 l S 0 0 0 RG
-0.70 0.72 0.76 RG 0.7 w 539.28 479.89 m 539.28 434.89 l S 0 0 0 RG
-0.70 0.72 0.76 RG 0.7 w 56.00 479.89 m 539.28 479.89 l S 0 0 0 RG
-0.70 0.72 0.76 RG 0.7 w 56.00 434.89 m 539.28 434.89 l S 0 0 0 RG
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 465.09 Tm (lms unload qwen/qwen3-30b-a3b-thinking-2507) Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 454.09 Tm (lms load qwen/qwen3-30b-a3b-thinking-2507 --context-length 32768) Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 443.09 Tm (lms ps) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 56.00 415.89 Tm (Leave KV cache quantization disabled: it can persist context between tasks and produce unpredictable agent) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 56.00 402.89 Tm (behavior; Cline's own LM Studio guide recommends keeping it off.) Tj ET 0 0 0 rg
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 388.89 Tm (1.3  Verify the server settings) Tj ET 0 0 0 rg
-0.09 0.20 0.40 rg 56.00 357.39 483.28 18.50 re f 0 0 0 rg
-1.00 1.00 1.00 rg BT /F2 9.0 Tf 1 0 0 1 61.00 362.89 Tm (Setting \(Server Settings / Developer\)) Tj ET 0 0 0 rg
-1.00 1.00 1.00 rg BT /F2 9.0 Tf 1 0 0 1 232.29 362.89 Tm (Value) Tj ET 0 0 0 rg
-1.00 1.00 1.00 rg BT /F2 9.0 Tf 1 0 0 1 299.58 362.89 Tm (Reason) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 357.39 m 539.28 357.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 344.39 Tm (Server Port) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 232.29 344.39 Tm (1235) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 344.39 Tm (Your Bionic setup; Cline default is 1234 and must be) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 332.89 Tm (corrected in Step 3.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 327.39 m 539.28 327.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 314.39 Tm (Require Authentication) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 232.29 314.39 Tm (OFF) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 314.39 Tm (Cline's dedicated LM Studio provider has no API-key field) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 302.89 Tm (\(known gap, cline issue #9668\). If you need authentication) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 291.39 Tm (later, use Cline's "OpenAI Compatible" provider instead.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 285.89 m 539.28 285.89 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 272.89 Tm (Serve on Local Network) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 232.29 272.89 Tm (OFF) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 272.89 Tm (Nothing outside this machine should reach the endpoint.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 267.39 m 539.28 267.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 254.39 Tm (Enable CORS) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 232.29 254.39 Tm (OFF) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 254.39 Tm (CORS is only required by browser-based clients \(for) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 242.89 Tm (example Open WebUI\); the VS Code extension does not) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 231.39 Tm (need it.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 225.89 m 539.28 225.89 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 212.89 Tm (Just in Time Model Loading) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 232.29 212.89 Tm (ON) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 212.89 Tm (Keeps your existing setup; the load defaults from 1.2) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 201.39 Tm (apply.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 195.89 m 539.28 195.89 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 182.89 Tm (Auto Unload Unused JIT Models) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 232.29 182.89 Tm (your choice) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 182.89 Tm (ON saves VRAM between sessions; OFF keeps the model) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 299.58 171.39 Tm (resident and avoids reload times.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 165.89 m 539.28 165.89 l S 0 0 0 RG
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 149.89 Tm (1.4  Enable reasoning separation) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 123.89 Tm (In the Developer settings, enable "When applicable, separate reasoning_content and content in API) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 110.89 Tm (responses". This returns the model's chain of thought in the dedicated reasoning field of the) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 97.89 Tm (OpenAI-compatible API, which Cline renders as the collapsible Thinking section instead of mixing reasoning) Tj ET 0 0 0 rg
-0.45 0.45 0.45 rg BT /F1 8 Tf 1 0 0 1 56.0 40.0 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET
-BT /F1 8 Tf 1 0 0 1 505.3 40.0 Tm (Page 2) Tj ET
-0 0 0 rg
-endstream
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 10 0 R >>
 endobj
 10 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 9 0 R >>
+<< /Length 7751 >>
+stream
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 778.00 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 778.00 Tm (LM Studio Bionic installed, Local Model API running at http://localhost:1235/v1, just-in-time model) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 764.30 Tm (loading enabled \(as per your setup\).) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 747.10 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 747.10 Tm (VS Code with LaTeX Workshop and a local git repository at) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 733.40 Tm (D:\\E\\Wissensbasis\\Projekte\\Cheatsheet_collection.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 716.20 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 716.20 Tm (pdflatex available on the Windows PATH \(MiKTeX or TeX Live\); verify with pdflatex --version in) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 702.50 Tm (PowerShell.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 685.30 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 685.30 Tm (Git for Windows with Git Credential Manager \(bundled by default\) for the GitHub push in Step 7.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 668.10 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 668.10 Tm (Approximately 19 GB free disk space for the model download.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 640.90 Tm (Step 1: Configure LM Studio Bionic) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 635.90 m 539.00 635.90 l S 0 0 0 RG
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 614.90 Tm (1.1  Download the model) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 596.90 Tm (1.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 596.90 Tm (In Bionic, open Settings -> Local Models -> Explore \(in classic LM Studio this tab is called) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 583.20 Tm (Discover\).) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 566.00 Tm (2.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 566.00 Tm (Search for 'qwen3-30b-a3b-thinking-2507' and select the entry qwen/qwen3-30b-a3b-thinking-2507) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 552.30 Tm (\(GGUF, publisher lmstudio-community\).) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 535.10 Tm (3.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 535.10 Tm (Choose the Q4_K_M quantization \(approximately 18.6 GB\) and confirm the download. This is the) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 521.40 Tm (only model you need.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 504.20 Tm (4.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 504.20 Tm (Ignore any device-fit warning that the file exceeds 16 GB VRAM: only 3.3B parameters are active) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 490.50 Tm (per token, so a partial hold in system RAM costs little speed.) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 469.30 Tm (1.2  Set the model default load configuration \(critical\)) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 449.30 Tm (Known issue: just-in-time loading defaults to a 16,384-token context window, while Cline's system prompt) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 436.10 Tm (including tool definitions already consumes roughly 25,000 tokens. With the default you will see 'context) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 422.90 Tm (window exceeded' errors or a model that loses the task after two or three tool calls. Fix this once,) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 409.70 Tm (permanently:) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 390.50 Tm (1.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 390.50 Tm (Open My Models \(sidebar\) and find the card for qwen/qwen3-30b-a3b-thinking-2507.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 373.30 Tm (2.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 373.30 Tm (Click the gear icon on the model card to open the default load parameters.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 356.10 Tm (3.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 356.10 Tm (Set Context Length to 32768 and GPU offload to the maximum suggested value, then save. These) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 342.40 Tm (parameters apply to every future JIT load.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 325.20 Tm (Alternative via the lms command line \(Bionic 1.1.8 restored lms compatibility\):) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 303.50 Tm (lms unload qwen/qwen3-30b-a3b-thinking-2507) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 291.10 Tm (lms load qwen/qwen3-30b-a3b-thinking-2507 --context-length 32768) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 278.70 Tm (lms ps) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 261.30 Tm (Leave KV cache quantization disabled: it can persist context between tasks and produce unpredictable) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 247.60 Tm (agent behavior; Cline's own LM Studio guide recommends keeping it off.) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 224.90 Tm (1.3  Verify the server settings) Tj ET 0 0 0 rg
+0.85 0.87 0.91 rg 56.00 178.90 483.00 32.00 re f
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 59.50 197.90 Tm (Setting \(Server Settings /) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 59.50 185.40 Tm (Developer\)) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 194.74 197.90 Tm (Value) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 262.36 197.90 Tm (Reason) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 162.90 Tm (Server Port) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 194.74 162.90 Tm (1235) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 162.90 Tm (Your Bionic setup; Cline default is 1234 and must be corrected in) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 150.40 Tm (Step 3.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 143.90 m 539.00 143.90 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 130.90 Tm (Require Authentication) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 194.74 130.90 Tm (OFF) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 130.90 Tm (Keep OFF for now; the placeholder API key in Step 3 suffices. If) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 118.40 Tm (you enable it later, enter the real Bionic API token in Cline's API) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 105.90 Tm (Key field \(the OpenAI Compatible provider has such a field\).) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 99.40 m 539.00 99.40 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 86.40 Tm (Serve on Local Network) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 194.74 86.40 Tm (OFF) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 86.40 Tm (Nothing outside this machine should reach the endpoint.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 79.90 m 539.00 79.90 l S 0 0 0 RG
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 56.00 40.00 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 512.06 40.00 Tm (Page 2) Tj ET 0 0 0 rg
+endstream
 endobj
 11 0 obj
-<< /Length 7373 >>
-stream
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 768.89 Tm (into the visible answer.) Tj ET 0 0 0 rg
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 754.89 Tm (1.5  Verify the endpoint) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 728.89 Tm (In PowerShell, run the following and confirm the model id appears:) Tj ET 0 0 0 rg
-0.94 0.95 0.97 rg 56.00 666.89 483.28 56.00 re f 0 0 0 rg
-0.70 0.72 0.76 RG 0.7 w 56.00 722.89 m 56.00 666.89 l S 0 0 0 RG
-0.70 0.72 0.76 RG 0.7 w 539.28 722.89 m 539.28 666.89 l S 0 0 0 RG
-0.70 0.72 0.76 RG 0.7 w 56.00 722.89 m 539.28 722.89 l S 0 0 0 RG
-0.70 0.72 0.76 RG 0.7 w 56.00 666.89 m 539.28 666.89 l S 0 0 0 RG
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 708.09 Tm (curl http://localhost:1235/v1/models) Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 697.09 Tm () Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 686.09 Tm (Expected response \(excerpt\):) Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 675.09 Tm ({ "data": [ { "id": "qwen/qwen3-30b-a3b-thinking-2507", "object": "model" } ] }) Tj ET 0 0 0 rg
-0.98 0.95 0.82 rg 56.00 621.89 483.28 39.00 re f 0 0 0 rg
-0.85 0.70 0.25 RG 0.7 w 56.00 660.89 m 56.00 621.89 l S 0 0 0 RG
-0.50 0.35 0.05 rg BT /F2 9.5 Tf 1 0 0 1 66.00 642.59 Tm (Note:) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 92.91 641.39 Tm (Copy the exact "id" string. If it deviates from the name above \(for example it includes a quantization) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 66.00 628.89 Tm (suffix\), use the exact string in Cline in Step 3.) Tj ET 0 0 0 rg
-0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 604.89 Tm (Step 2: Install the Cline Extension in VS Code) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.0 w 56.00 598.89 m 539.28 598.89 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 573.89 Tm (1.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 573.89 Tm (Open VS Code, then Extensions \(Ctrl+Shift+X\).) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 560.89 Tm (2.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 560.89 Tm (Search for "Cline"; install the extension by publisher Cline Bot Inc. \(5M+ installs, Apache 2.0\). Reload) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 547.89 Tm (VS Code when prompted.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 534.89 Tm (3.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 534.89 Tm (Open your project: File -> Open Folder -> D:\\E\\Wissensbasis\\Projekte\\Cheatsheet_collection.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 521.89 Tm (4.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 521.89 Tm (The Cline icon appears in the Activity Bar on the left; click it to open the Cline panel.) Tj ET 0 0 0 rg
-0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 504.89 Tm (Step 3: Connect Cline to the Bionic Endpoint) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.0 w 56.00 498.89 m 539.28 498.89 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 473.89 Tm (1.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 473.89 Tm (In the Cline panel, open Settings via the gear icon.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 460.89 Tm (2.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 460.89 Tm (API Provider: select LM Studio.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 447.89 Tm (3.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 447.89 Tm (Base URL: change the default http://localhost:1234 to http://localhost:1235/v1.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 434.89 Tm (4.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 434.89 Tm (Model: select qwen/qwen3-30b-a3b-thinking-2507 from the model dropdown \(the list is read from) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 421.89 Tm (your endpoint; the first request triggers the JIT load, which takes 20-60 seconds\).) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F2 10.0 Tf 1 0 0 1 70.00 408.89 Tm (5.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 92.00 408.89 Tm (Stay in Cline Settings, open the Features section, and enable "Use Compact Prompt".) Tj ET 0 0 0 rg
-0.98 0.95 0.82 rg 56.00 339.89 483.28 64.00 re f 0 0 0 rg
-0.85 0.70 0.25 RG 0.7 w 56.00 403.89 m 56.00 339.89 l S 0 0 0 RG
-0.50 0.35 0.05 rg BT /F2 9.5 Tf 1 0 0 1 66.00 385.59 Tm (Why this matters:) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 148.35 384.39 Tm ("Use Compact Prompt" reduces Cline's system prompt to roughly one tenth of its full) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 66.00 371.89 Tm (size, which is decisive for a local model with a 32k context. The trade-off disables MCP) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 66.00 359.39 Tm (tools, Focus Chain and MTP features; none of these are needed for editing .tex files,) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 66.00 346.89 Tm (compiling and committing.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 56.00 321.89 Tm (Fallback: if you ever enable "Require Authentication" in Bionic, switch the provider in Cline from LM Studio to) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 56.00 308.89 Tm ("OpenAI Compatible", set Base URL to http://localhost:1235/v1, enter the Bionic API token as the API key, and) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 56.00 295.89 Tm (paste the exact model id from Step 1.5 as the Model ID.) Tj ET 0 0 0 rg
-0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 277.89 Tm (Step 4: Permissions for Fully Automatic Operation) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.0 w 56.00 271.89 m 539.28 271.89 l S 0 0 0 RG
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 251.89 Tm (4.1  Granular option: Auto Approve) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 225.89 Tm (In the Cline settings panel, locate the Auto Approve section and enable the following toggles:) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 206.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 206.89 Tm (Read project files: ON) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 193.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 193.89 Tm (Edit project files: ON) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 180.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 180.89 Tm (Execute safe commands: ON) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 167.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 167.89 Tm (Execute all commands: ON) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 56.00 149.89 Tm (The distinction matters: git status, ls or cat count as safe commands, while pdflatex runs and git commit are) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 56.00 136.89 Tm (classified as approval-required commands. "Execute all commands" is therefore the toggle that makes compiling) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 56.00 123.89 Tm (and committing fully automatic.) Tj ET 0 0 0 rg
-0.45 0.45 0.45 rg BT /F1 8 Tf 1 0 0 1 56.0 40.0 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET
-BT /F1 8 Tf 1 0 0 1 505.3 40.0 Tm (Page 3) Tj ET
-0 0 0 rg
-endstream
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 12 0 R >>
 endobj
 12 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 11 0 R >>
+<< /Length 7734 >>
+stream
+0.85 0.87 0.91 rg 56.00 750.00 483.00 32.00 re f
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 59.50 769.00 Tm (Setting \(Server Settings /) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 59.50 756.50 Tm (Developer\)) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 194.74 769.00 Tm (Value) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 262.36 769.00 Tm (Reason) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 734.00 Tm (Enable CORS) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 194.74 734.00 Tm (OFF) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 734.00 Tm (CORS is only required by browser-based clients \(for example) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 721.50 Tm (Open WebUI\); the VS Code extension does not need it.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 715.00 m 539.00 715.00 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 702.00 Tm (Just in Time Model Loading) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 194.74 702.00 Tm (ON) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 702.00 Tm (Keeps your existing setup; the load defaults from 1.2 apply.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 695.50 m 539.00 695.50 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 682.50 Tm (Auto Unload Unused JIT) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 670.00 Tm (Models) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 194.74 682.50 Tm (your choice) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 682.50 Tm (ON saves VRAM between sessions; OFF keeps the model) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 262.36 670.00 Tm (resident and avoids reload times.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 663.50 m 539.00 663.50 l S 0 0 0 RG
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 652.50 Tm (1.4  Enable reasoning separation) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 634.50 Tm (In the Developer settings, enable 'When applicable, separate reasoning_content and content in API) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 620.80 Tm (responses'. This returns the model's chain of thought in the dedicated reasoning field of the) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 607.10 Tm (OpenAI-compatible API, which Cline renders as the collapsible Thinking section instead of mixing) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 593.40 Tm (reasoning into the visible answer.) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 570.70 Tm (1.5  Verify the endpoint) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 552.70 Tm (In PowerShell, run the following and confirm the model id appears:) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 531.00 Tm (curl http://localhost:1235/v1/models) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 513.60 Tm (Expected response \(excerpt\):) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 491.90 Tm ({ "data": [ { "id": "qwen/qwen3-30b-a3b-thinking-2507", "object": "model" } ] }) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 472.50 Tm (Note: Copy the exact 'id' string. If it deviates from the name above \(for example it includes a quantization) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 459.30 Tm (suffix\), use the exact string as the Model ID in Cline in Step 3.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 430.10 Tm (Step 2: Install the Cline Extension in VS Code) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 425.10 m 539.00 425.10 l S 0 0 0 RG
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 408.10 Tm (1.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 408.10 Tm (Open VS Code, then Extensions \(Ctrl+Shift+X\).) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 390.90 Tm (2.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 390.90 Tm (Search for 'Cline'; install the extension by publisher Cline Bot Inc. \(5M+ installs, Apache 2.0\).) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 377.20 Tm (Reload VS Code when prompted.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 360.00 Tm (3.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 360.00 Tm (Open your project: File -> Open Folder -> D:\\E\\Wissensbasis\\Projekte\\Cheatsheet_collection.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 342.80 Tm (4.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 342.80 Tm (The Cline icon appears in the Activity Bar on the left; click it to open the Cline panel.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 315.60 Tm (Step 3: Connect Cline to the Bionic Endpoint \(Validated Configuration\)) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 310.60 m 539.00 310.60 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 293.60 Tm (The following provider configuration was validated on your machine on November 4, 2026. It uses) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 279.90 Tm (Cline's generic OpenAI-compatible provider, not the dedicated LM Studio provider; the reason is given) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 266.20 Tm (below.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 247.50 Tm (1.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 247.50 Tm (In the Cline panel, open Settings via the gear icon.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 230.30 Tm (2.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 230.30 Tm (API Provider: select 'OpenAI Compatible'.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 213.10 Tm (3.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 213.10 Tm (Base URL: enter http://localhost:1235/v1 \(keep the /v1 suffix; it is required\).) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 195.90 Tm (4.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 195.90 Tm (API Key: enter any non-empty placeholder, for example 'bionic'. Cline validates that the field is) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 182.20 Tm (non-empty; Bionic does not check the value because the server runs without authentication.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 165.00 Tm (5.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 165.00 Tm (Model ID: type or paste the exact id from Step 1.5, for example) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 151.30 Tm (qwen/qwen3-30b-a3b-thinking-2507. Type it manually even if a dropdown appears; do not leave it) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 137.60 Tm (empty. The first request triggers the JIT load, which takes 20-60 seconds.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 120.40 Tm (6.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 120.40 Tm (Stay in Cline Settings, open the Features section, and enable 'Use Compact Prompt'.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 103.20 Tm (Why the OpenAI Compatible provider and not 'LM Studio': Cline's dedicated LM Studio provider expects) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 89.50 Tm (LM Studio's native REST route \(/api/v0\) for its model list. Bionic serves the OpenAI-compatible API at) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 56.00 40.00 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 512.06 40.00 Tm (Page 3) Tj ET 0 0 0 rg
+endstream
 endobj
 13 0 obj
-<< /Length 7418 >>
-stream
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 773.89 Tm (4.2  Single-switch option: YOLO Mode) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 747.89 Tm (Alternatively, in Cline Settings -> Features, check "YOLO Mode". This auto-approves every action: all file) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 734.89 Tm (operations, all terminal commands including destructive ones, browser actions, MCP tools and mode) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 721.89 Tm (transitions. This matches your stated preference for fully automatic operation; combine it with the safety) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 708.89 Tm (measures below.) Tj ET 0 0 0 rg
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 694.89 Tm (4.3  Safety measures for unattended operation) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 668.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 668.89 Tm (The local git repository is the primary safety net: every committed state can be restored \(git log, git) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 655.89 Tm (checkout\).) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 642.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 642.89 Tm (Cline creates a checkpoint at every step; use the Compare and Restore buttons in the task header to) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 629.89 Tm (roll back any change.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 616.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 616.89 Tm (Section 5 adds a project rule that forbids pushing to remotes, so automation stays local.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 603.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 603.89 Tm (Watch the first few sessions completely before leaving tasks unattended.) Tj ET 0 0 0 rg
-0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 586.89 Tm (Step 5: Project Rules for the Cheatsheet Repository) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.0 w 56.00 580.89 m 539.28 580.89 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 555.89 Tm (Create the file D:\\E\\Wissensbasis\\Projekte\\Cheatsheet_collection\\.clinerules with the following content. Cline) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 542.89 Tm (reads it automatically at the start of each task:) Tj ET 0 0 0 rg
-0.94 0.95 0.97 rg 56.00 447.89 483.28 89.00 re f 0 0 0 rg
-0.70 0.72 0.76 RG 0.7 w 56.00 536.89 m 56.00 447.89 l S 0 0 0 RG
-0.70 0.72 0.76 RG 0.7 w 539.28 536.89 m 539.28 447.89 l S 0 0 0 RG
-0.70 0.72 0.76 RG 0.7 w 56.00 536.89 m 539.28 536.89 l S 0 0 0 RG
-0.70 0.72 0.76 RG 0.7 w 56.00 447.89 m 539.28 447.89 l S 0 0 0 RG
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 522.09 Tm (This repository contains LaTeX cheatsheets compiled with pdflatex.) Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 511.09 Tm () Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 500.09 Tm (- After each completed change to a .tex file, compile it with pdflatex and fix any) Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 489.09 Tm (LaTeX errors before finishing the task.) Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 478.09 Tm (- After a successful task, stage the changed files with git add and create a local) Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 467.09 Tm (git commit with a concise, descriptive message. Never push to any remote.) Tj ET 0 0 0 rg
-0.05 0.10 0.20 rg BT /F3 8.6 Tf 1 0 0 1 66.00 456.09 Tm (- Keep edits minimal; preserve the existing LaTeX preamble and formatting conventions.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 56.00 428.89 Tm (Rules can be toggled per session in the rules popover below the Cline chat input.) Tj ET 0 0 0 rg
-0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 410.89 Tm (Step 6: Verification of the Three Requirements) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.0 w 56.00 404.89 m 539.28 404.89 l S 0 0 0 RG
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 384.89 Tm (Test 1: Thinking \(reasoning mode\)) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 358.89 Tm (Prompt in the Cline chat: "Think step by step: what is the sum of the integers from 1 to 100, and why?") Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 339.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 339.89 Tm (Pass criterion: a collapsed "Thinking" section appears above the answer; click it to inspect the chain of) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 326.89 Tm (thought.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 313.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 313.89 Tm (If the reasoning text appears inside the answer instead, re-check Step 1.4 \(reasoning separation\).) Tj ET 0 0 0 rg
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 300.89 Tm (Test 2: Terminal execution \(compile a cheatsheet\)) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 274.89 Tm (Prompt: "Compile <your-sheet>.tex with pdflatex and report whether the PDF was produced and how many) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 261.89 Tm (pages it has." \(Replace <your-sheet> with an actual file name in the repository.\)) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 242.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 242.89 Tm (Pass criterion: Cline runs pdflatex in the VS Code terminal without any approval dialog, reads the) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 229.89 Tm (output, and reports the result; the corresponding .pdf file exists in the repository folder.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 216.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 216.89 Tm (The first run includes the JIT model load \(20-60 seconds\). Subsequent runs start immediately.) Tj ET 0 0 0 rg
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 203.89 Tm (Test 3: Automatic git commit) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 177.89 Tm (Prompt: "Stage the current changes and commit them with a descriptive message.") Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 158.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 158.89 Tm (Pass criterion: no approval prompt appears; afterwards run in the VS Code terminal:) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 145.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 145.89 Tm (git log --oneline -3 -> the new commit is at the top) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 132.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 132.89 Tm (git status -> working tree clean \(or only intended untracked files\)) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 119.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 119.89 Tm (The commit is local only; nothing is pushed \(see Section 5\).) Tj ET 0 0 0 rg
-0.45 0.45 0.45 rg BT /F1 8 Tf 1 0 0 1 56.0 40.0 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET
-BT /F1 8 Tf 1 0 0 1 505.3 40.0 Tm (Page 4) Tj ET
-0 0 0 rg
-endstream
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 14 0 R >>
 endobj
 14 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 13 0 R >>
+<< /Length 7128 >>
+stream
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 778.00 Tm (/v1 on port 1235, so the provider finds no model there; the model field stays empty and Cline aborts) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 764.30 Tm (every task at start with the validation error 'Failed to start task: [ ... 'path': [ 'model' ], 'message': 'Too) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 750.60 Tm (small: expected string to have >=1 characters' ] ...' \(known issue cline#10016; observed on your) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 736.90 Tm (machine on November 4, 2026\). The OpenAI Compatible provider talks to your /v1 endpoint directly and) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 723.20 Tm (avoids this route entirely.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 704.50 Tm (Why 'Use Compact Prompt' matters: it reduces Cline's system prompt to roughly one tenth of its full) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 690.80 Tm (size, which is decisive for a local model with a 32k context. The trade-off disables MCP tools, Focus) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 677.10 Tm (Chain and MTP features; none of these are needed for editing .tex files, compiling and committing.) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 656.40 Tm (Discouraged fallback: the provider 'LM Studio' with Base URL http://localhost:1235/v1 only becomes) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 643.20 Tm (relevant if a future Cline release fixes the model resolution against Bionic. Until then it produces the 'Too) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 630.00 Tm (small' error described above. If you ever enable 'Require Authentication' in Bionic, replace the placeholder) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 616.80 Tm (API key with the actual Bionic API token; nothing else changes.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 587.60 Tm (Step 4: Permissions for Fully Automatic Operation) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 582.60 m 539.00 582.60 l S 0 0 0 RG
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 561.60 Tm (4.1  Granular option: Auto Approve) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 543.60 Tm (In the Cline settings panel, locate the Auto Approve section and enable the following toggles:) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 524.90 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 524.90 Tm (Read project files: ON) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 507.70 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 507.70 Tm (Edit project files: ON) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 490.50 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 490.50 Tm (Execute safe commands: ON) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 473.30 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 473.30 Tm (Execute all commands: ON) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 456.10 Tm (The distinction matters: git status, ls or cat count as safe commands, while pdflatex runs and git commit) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 442.40 Tm (are classified as approval-required commands. 'Execute all commands' is therefore the toggle that) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 428.70 Tm (makes compiling and committing fully automatic.) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 406.00 Tm (4.2  Single-switch option: YOLO Mode) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 388.00 Tm (Alternatively, in Cline Settings -> Features, check 'YOLO Mode'. This auto-approves every action: all file) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 374.30 Tm (operations, all terminal commands including destructive ones, browser actions, MCP tools and mode) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 360.60 Tm (transitions. This matches your stated preference for fully automatic operation; combine it with the safety) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 346.90 Tm (measures below.) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 324.20 Tm (4.3  Safety measures for unattended operation) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 306.20 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 306.20 Tm (The local git repository is the primary safety net: every committed state can be restored \(git log, git) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 292.50 Tm (checkout\).) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 275.30 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 275.30 Tm (Cline creates a checkpoint at every step; use the Compare and Restore buttons in the task header) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 261.60 Tm (to roll back any change.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 244.40 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 244.40 Tm (Section 5 adds a project rule that commits locally after each task; pushes to GitHub are covered by) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 230.70 Tm (Step 7 and require a one-time web sign-in.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 213.50 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 213.50 Tm (Watch the first few sessions completely before leaving tasks unattended.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 186.30 Tm (Step 5: Project Rules for the Cheatsheet Repository) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 181.30 m 539.00 181.30 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 164.30 Tm (Create the file D:\\E\\Wissensbasis\\Projekte\\Cheatsheet_collection\\.clinerules with the following content.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 150.60 Tm (Cline reads it automatically at the start of each task:) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 128.90 Tm (This repository contains LaTeX cheatsheets compiled with pdflatex.) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 116.50 Tm () Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 104.10 Tm (- After each completed change to a .tex file, compile it with pdflatex) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 91.70 Tm (  and fix any LaTeX errors before finishing the task.) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 79.30 Tm (- After a successful task, stage the changed files with git add, create a) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 56.00 40.00 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 512.06 40.00 Tm (Page 4) Tj ET 0 0 0 rg
+endstream
 endobj
 15 0 obj
-<< /Length 10493 >>
-stream
-0.10 0.10 0.10 rg BT /F2 11.5 Tf 1 0 0 1 56.00 773.89 Tm (Context check) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 747.89 Tm (While Cline works, watch the token bar at the top of the task view: total usage should stay clearly below) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 734.89 Tm (32,768 tokens. If it approaches the limit, start a new task \(plus button in the task header\) rather than letting) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 56.00 721.89 Tm (the context overflow.) Tj ET 0 0 0 rg
-0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 703.89 Tm (Step 7: Troubleshooting Known Issues) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.0 w 56.00 697.89 m 539.28 697.89 l S 0 0 0 RG
-0.09 0.20 0.40 rg 56.00 667.39 483.28 18.50 re f 0 0 0 rg
-1.00 1.00 1.00 rg BT /F2 9.0 Tf 1 0 0 1 61.00 672.89 Tm (Symptom) Tj ET 0 0 0 rg
-1.00 1.00 1.00 rg BT /F2 9.0 Tf 1 0 0 1 211.35 672.89 Tm (Cause) Tj ET 0 0 0 rg
-1.00 1.00 1.00 rg BT /F2 9.0 Tf 1 0 0 1 350.97 672.89 Tm (Fix) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 667.39 m 539.28 667.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 654.39 Tm ("Context window exceeded" or) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 642.89 Tm ("Cannot truncate prompt" errors;) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 631.39 Tm (model forgets the task after 2-3) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 619.89 Tm (tool calls.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 654.39 Tm (JIT default context of 16,384) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 642.89 Tm (tokens; Cline needs about 25k) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 631.39 Tm (for its system prompt.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 654.39 Tm (Set Context Length 32768 in the model) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 642.89 Tm (default load parameters \(Step 1.2\); confirm) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 631.39 Tm ("Use Compact Prompt" is on.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 614.39 m 539.28 614.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 601.39 Tm (HTTP 500 error on every Cline) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 589.89 Tm (request.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 601.39 Tm (Model ID mismatch between) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 589.89 Tm (Cline and the endpoint.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 601.39 Tm (Copy the exact id from) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 589.89 Tm (http://localhost:1235/v1/models into Cline.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 584.39 m 539.28 584.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 571.39 Tm (Cline stuck at "API Request...".) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 571.39 Tm (Server not running or model not) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 559.89 Tm (loaded.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 571.39 Tm (Check the server status in the Bionic) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 559.89 Tm (Developer panel; re-run curl) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 548.39 Tm (http://localhost:1235/v1/models.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 542.89 m 539.28 542.89 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 529.89 Tm (Thinking text mixed into the normal) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 518.39 Tm (answer.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 529.89 Tm (Reasoning separation disabled.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 529.89 Tm (Enable the separate reasoning_content) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 518.39 Tm (setting \(Step 1.4\).) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 512.89 m 539.28 512.89 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 499.89 Tm (Generation is very slow.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 499.89 Tm (Expert weights partially held in) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 488.39 Tm (system RAM; low free system) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 476.89 Tm (RAM.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 499.89 Tm (Close memory-intensive applications; reduce) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 488.39 Tm (Context Length to 24,576; as a last resort use) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 476.89 Tm (a Q4_K_S or Q3_K_L quant \(fully) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 465.39 Tm (GPU-resident, but Q3 measurably degrades) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 453.89 Tm (tool-call reliability\).) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 448.39 m 539.28 448.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 435.39 Tm (Extension cannot connect although) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 423.89 Tm (curl works.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 435.39 Tm (Wrong port in Cline.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 435.39 Tm (Base URL must be http://localhost:1235/v1) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 423.89 Tm (\(Cline defaults to 1234\).) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 418.39 m 539.28 418.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 405.39 Tm (Model produces broken or missing) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 61.00 393.89 Tm (tool calls.) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 405.39 Tm (Substituted model not suited to) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 393.89 Tm (Cline \(for example gpt-oss-20b,) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 382.39 Tm (DeepSeek-R1 distills, 7B-class) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 211.35 370.89 Tm (models\).) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 405.39 Tm (Use qwen/qwen3-30b-a3b-thinking-2507 as) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 393.89 Tm (recommended; Cline demands reliable) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 9.0 Tf 1 0 0 1 350.97 382.39 Tm (structured tool calls.) Tj ET 0 0 0 rg
-0.60 0.62 0.66 RG 0.7 w 56.00 365.39 m 539.28 365.39 l S 0 0 0 RG
-0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 345.39 Tm (Key Sources) Tj ET 0 0 0 rg
-0.06 0.16 0.33 RG 1.0 w 56.00 339.39 m 539.28 339.39 l S 0 0 0 RG
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 314.39 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 314.39 Tm (Cline documentation, Run Cline with local models \(LM Studio provider, Use Compact Prompt\):) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 301.39 Tm (docs.cline.bot/running-models-locally/overview) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 288.39 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 288.39 Tm (Cline documentation, Auto Approve and YOLO Mode: docs.cline.bot/features/auto-approve) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 275.39 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 275.39 Tm (Cline blog, "Cline + LM Studio: the local coding stack" \(context window, KV cache quantization off, 4-bit) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 262.39 Tm (guidance\): cline.bot/blog/local-models) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 249.39 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 249.39 Tm (LM Studio documentation, Server Settings \(Server Port, Require Authentication, Enable CORS, JIT) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 236.39 Tm (loading\): lmstudio.ai/docs/developer/core/server/settings) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 223.39 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 223.39 Tm (LM Studio model page qwen3-30b-a3b-thinking-2507 \(Trained for tool use; Reasoning; 17 GB) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 210.39 Tm (minimum system memory\): lmstudio.ai/models/qwen/qwen3-30b-a3b-thinking-2507) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 197.39 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 197.39 Tm (LM Studio API changelog \(separate reasoning_content setting; reasoning fields in the) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 184.39 Tm (OpenAI-compatible API\): lmstudio.ai/docs/developer/api-changelog) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 171.39 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 171.39 Tm (Bionic changelog 1.1.8 \(lms compatibility with Bionic\): lmstudio.ai/changelog/bionic-v1.1.8) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 158.39 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 158.39 Tm (aicoderscope, "LM Studio Bionic as a Coding Agent in 2026" \(Cline provider base URL, >25k context) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 145.39 Tm (for agentic tools, missing API-key field cline#9668\):) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 132.39 Tm (aicoderscope.com/blog/lm-studio-bionic-coding-agent-privacy-guide-2026) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 119.39 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 119.39 Tm (dev.to \(Jovan Chan\), "Cline + LM Studio 2026: complete setup guide, the 32k context trap") Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 106.39 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 106.39 Tm (VDF AI, "Best Local LLM for Agents and Tool Calling" \(October 2026 shortlist by VRAM tier\):) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 93.39 Tm (vdf.ai/blog/best-local-llm-for-agents-tool-calling) Tj ET 0 0 0 rg
-0.45 0.45 0.45 rg BT /F1 8 Tf 1 0 0 1 56.0 40.0 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET
-BT /F1 8 Tf 1 0 0 1 505.3 40.0 Tm (Page 5) Tj ET
-0 0 0 rg
-endstream
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 16 0 R >>
 endobj
 16 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 15 0 R >>
-endobj
-17 0 obj
-<< /Length 1203 >>
+<< /Length 6942 >>
 stream
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 768.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 768.89 Tm (modelfit, "Best Local LLMs for Cline \(2026 Tier List\)" \(tool-call reliability, Q4_K_M floor, Q3) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 755.89 Tm (degradation\): modelfit.io/tools/cline) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 70.00 742.89 Tm (-) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 742.89 Tm (Community reports on gpt-oss in Cline \(r/CLine; AMD model-testing thread; Cline team statement on) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 10.0 Tf 1 0 0 1 82.00 729.89 Tm (gpt-oss tool-call incompatibility\)) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 8.5 Tf 1 0 0 1 56.00 711.89 Tm (Guide compiled on October 29, 2026. Tool versions move quickly; if a menu label deviates, the setting names above follow the) Tj ET 0 0 0 rg
-0.00 0.00 0.00 rg BT /F1 8.5 Tf 1 0 0 1 56.00 698.89 Tm (official documentation as of this date.) Tj ET 0 0 0 rg
-0.45 0.45 0.45 rg BT /F1 8 Tf 1 0 0 1 56.0 40.0 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET
-BT /F1 8 Tf 1 0 0 1 505.3 40.0 Tm (Page 6) Tj ET
-0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 778.00 Tm (  local git commit with a concise, descriptive message, and push the) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 765.60 Tm (  commit to the origin remote on GitHub \(after the one-time sign-in) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 753.20 Tm (  described in the setup guide, pushes are automatic\).) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 740.80 Tm (- Keep edits minimal; preserve the existing LaTeX preamble and) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 728.40 Tm (  formatting conventions.) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 716.00 Tm (- Never publish secrets or personal data; the public cheatsheets) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 703.60 Tm (  repository must contain sanitized versions only.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 686.20 Tm (Rules can be toggled per session in the rules popover below the Cline chat input.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 657.50 Tm (Step 6: Verification of the Three Requirements) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 652.50 m 539.00 652.50 l S 0 0 0 RG
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 631.50 Tm (Test 1: Thinking \(reasoning mode\)) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 613.50 Tm (Prompt in the Cline chat: 'Think step by step: what is the sum of the integers from 1 to 100, and why?') Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 594.80 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 594.80 Tm (Pass criterion: a collapsed 'Thinking' section appears above the answer; click it to inspect the chain) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 581.10 Tm (of thought.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 563.90 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 563.90 Tm (If the reasoning text appears inside the answer instead, re-check Step 1.4 \(reasoning separation\).) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 542.70 Tm (Test 2: Terminal execution \(compile a cheatsheet\)) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 524.70 Tm (Prompt: 'Compile <your-sheet>.tex with pdflatex and report whether the PDF was produced and how) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 511.00 Tm (many pages it has.' \(Replace <your-sheet> with an actual file name in the repository.\)) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 492.30 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 492.30 Tm (Pass criterion: Cline runs pdflatex in the VS Code terminal without any approval dialog, reads the) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 478.60 Tm (output, and reports the result; the corresponding .pdf file exists in the repository folder.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 461.40 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 461.40 Tm (The first run includes the JIT model load \(20-60 seconds\). Subsequent runs start immediately.) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 440.20 Tm (Test 3: Automatic git commit) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 422.20 Tm (Prompt: 'Stage the current changes and commit them with a descriptive message.') Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 403.50 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 403.50 Tm (Pass criterion: no approval prompt appears; afterwards run in the VS Code terminal:) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 386.30 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 386.30 Tm (git log --oneline -3 -> the new commit is at the top) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 369.10 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 369.10 Tm (git status -> working tree clean \(or only intended untracked files\)) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 351.90 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 351.90 Tm (The commit is local; pushing to GitHub is set up and verified in Step 7.) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 330.70 Tm (Context check) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 312.70 Tm (While Cline works, watch the token bar at the top of the task view: total usage should stay clearly below) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 299.00 Tm (32,768 tokens. If it approaches the limit, start a new task \(plus button in the task header\) rather than) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 285.30 Tm (letting the context overflow.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 256.60 Tm (Step 7: Push to GitHub via Web Sign-In) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 251.60 m 539.00 251.60 l S 0 0 0 RG
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 230.60 Tm (7.1  One-time preparation: create the remote and connect it) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 212.60 Tm (1.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 212.60 Tm (In your browser, sign in at github.com \(account ReikS\) and create the target repository, for example) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 198.90 Tm (ReikS/cheatsheets for the sanitized public cheatsheets; keep sensitive personal material in your) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 185.20 Tm (private repository, as before.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 168.00 Tm (2.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 168.00 Tm (In the VS Code terminal, inside D:\\E\\Wissensbasis\\Projekte\\Cheatsheet_collection, connect the) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 154.30 Tm (local repository and perform the first push:) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 134.10 Tm (git remote add origin https://github.com/ReikS/cheatsheets.git) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 121.70 Tm (git push -u origin main) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 104.30 Tm (3.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 104.30 Tm (This first push triggers the sign-in described in 7.2 or 7.3. After it succeeds, the local branch main) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 90.60 Tm (tracks origin/main.) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 56.00 40.00 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 512.06 40.00 Tm (Page 5) Tj ET 0 0 0 rg
 endstream
 endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 18 0 R >>
+endobj
 18 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 17 0 R >>
+<< /Length 7015 >>
+stream
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 774.00 Tm (7.2  What happens on the first push: browser sign-in via Git Credential Manager) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 756.00 Tm (Git for Windows ships with Git Credential Manager \(GCM\); its credential helper is configured as) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 742.30 Tm ('manager' by default, and its default credential store on Windows is Windows Credential Manager.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 723.60 Tm (1.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 723.60 Tm (On the first HTTPS push, GCM opens your default browser with the GitHub sign-in page. GCM may) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 709.90 Tm (first show a chooser: 1. Web browser \(default\), 2. Device code, 3. Personal access token. Choose) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 696.20 Tm (Web browser.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 679.00 Tm (2.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 679.00 Tm (If you are already signed in to GitHub in that browser, authorization completes with one) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 665.30 Tm (confirmation; otherwise enter your GitHub credentials and complete two-factor authentication.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 648.10 Tm (3.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 648.10 Tm (After the browser confirms, GCM stores the OAuth token in Windows Credential Manager. Every) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 634.40 Tm (later push, including pushes triggered by Cline in the terminal, is then automatic and needs no) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 620.70 Tm (interaction.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 603.50 Tm (Optional settings to always prefer the browser flow and suppress the GUI chooser:) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 581.80 Tm (git config --global credential.gitHubAuthModes browser) Tj ET 0 0 0 rg
+0.10 0.10 0.10 rg BT /F4 9.0 Tf 1 0 0 1 68.00 569.40 Tm (git config --global credential.guiPrompt false) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 552.00 Tm (Verification: the repository page on github.com shows the branch main and the pushed commit.) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 529.30 Tm (7.3  Alternative without a browser redirect: device code flow) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 511.30 Tm (If the browser cannot open on your machine, choose 'Device code' in the GCM chooser \(or run a push) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 497.60 Tm (in an environment where GCM falls back to device mode\). GCM prints a URL and a one-time code;) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 483.90 Tm (open the URL on any device, sign in to GitHub, and enter the code. The token is then stored exactly as) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 470.20 Tm (in 7.2. VS Code's own GitHub sign-in offers the same device flow: it shows a code and the page) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 456.50 Tm (github.com/login/device where you enter it.) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 433.80 Tm (7.4  Alternative: VS Code's built-in GitHub authentication) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 415.80 Tm (VS Code has GitHub authentication built in; no extension is required. When a push needs credentials) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 402.10 Tm (and VS Code handles the prompt, it shows 'Sign in to GitHub' and opens the browser authorization) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 388.40 Tm (page \('Authorize Visual Studio Code'\); after authorizing you return to VS Code. Git commands run in the) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 374.70 Tm (integrated terminal, including those executed by Cline, are automatically authenticated with this account) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 361.00 Tm (\(VS Code setting git.terminalAuthentication, enabled by default\). You can also sign in proactively:) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 347.30 Tm (Command Palette \(Ctrl+Shift+P\) -> 'GitHub: Sign In'. The token is stored in Windows Credential) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 56.00 333.60 Tm (Manager.) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 312.90 Tm (Both routes \(GCM and VS Code\) end with a credential in Windows Credential Manager. If pushes prompt) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 299.70 Tm (repeatedly, remove the stale entry: Control Panel -> User Accounts -> Credential Manager -> Windows) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 286.50 Tm (Credentials -> remove the entries beginning with 'git:' and push again.) Tj ET 0 0 0 rg
+0.13 0.29 0.55 rg BT /F2 11.5 Tf 1 0 0 1 56.00 263.30 Tm (7.5  Letting Cline push) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 245.30 Tm (1.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 245.30 Tm (The .clinerules from Step 5 instruct Cline to push after each commit. Run the first push supervised:) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 231.60 Tm (prompt Cline with 'Commit the current changes and push to origin.') Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 214.40 Tm (2.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 214.40 Tm (The first push opens the browser sign-in once \(7.2 or 7.4\). From then on, pushes are fully) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 200.70 Tm (automatic.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 58.00 183.50 Tm (3.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 183.50 Tm (Verification: git log origin/main lists the remote branch, and the GitHub repository page shows the) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 74.00 169.80 Tm (commits.) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 142.60 Tm (Step 8: Troubleshooting Known Issues) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 137.60 m 539.00 137.60 l S 0 0 0 RG
+0.85 0.87 0.91 rg 56.00 105.10 483.00 19.50 re f
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 59.50 111.60 Tm (Symptom) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 223.72 111.60 Tm (Cause) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 354.13 111.60 Tm (Fix) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 56.00 40.00 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 512.06 40.00 Tm (Page 6) Tj ET 0 0 0 rg
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 11367 >>
+stream
+0.85 0.87 0.91 rg 56.00 762.50 483.00 19.50 re f
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 59.50 769.00 Tm (Symptom) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 223.72 769.00 Tm (Cause) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F2 9.5 Tf 1 0 0 1 354.13 769.00 Tm (Fix) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 746.50 Tm (Failed to start task with [ ... 'path': [) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 734.00 Tm ('model' ], 'message': 'Too small:) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 721.50 Tm (expected string to have >=1) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 709.00 Tm (characters' ]; chat stuck at) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 696.50 Tm ('Thinking...'.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 746.50 Tm (Dedicated LM Studio) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 734.00 Tm (provider selected in Cline. It) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 721.50 Tm (queries the native /api/v0) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 709.00 Tm (route, which Bionic does not) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 696.50 Tm (serve, so the model field) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 684.00 Tm (stays empty and Cline's) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 671.50 Tm (validation rejects it \(known) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 659.00 Tm (issue cline#10016\).) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 746.50 Tm (Switch API Provider to 'OpenAI) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 734.00 Tm (Compatible', Base URL) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 721.50 Tm (http://localhost:1235/v1, any non-empty) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 709.00 Tm (API key, and type the exact Model ID from) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 696.50 Tm (/v1/models \(Step 3\). Validated on this) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 684.00 Tm (machine.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 652.50 m 539.00 652.50 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 639.50 Tm ('Context window exceeded' or) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 627.00 Tm ('Cannot truncate prompt' errors;) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 614.50 Tm (model forgets the task after 2-3 tool) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 602.00 Tm (calls.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 639.50 Tm (JIT default context of 16,384) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 627.00 Tm (tokens; Cline needs about) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 614.50 Tm (25k for its system prompt.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 639.50 Tm (Set Context Length 32768 in the model) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 627.00 Tm (default load parameters \(Step 1.2\); confirm) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 614.50 Tm ('Use Compact Prompt' is on.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 595.50 m 539.00 595.50 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 582.50 Tm (HTTP 500 error on every Cline) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 570.00 Tm (request.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 582.50 Tm (Model ID mismatch between) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 570.00 Tm (Cline and the endpoint.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 582.50 Tm (Copy the exact id from) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 570.00 Tm (http://localhost:1235/v1/models into Cline.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 563.50 m 539.00 563.50 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 550.50 Tm (Cline stuck at 'API Request...'.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 550.50 Tm (Server not running or model) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 538.00 Tm (not loaded.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 550.50 Tm (Check the server status in the Bionic) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 538.00 Tm (Developer panel; re-run curl) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 525.50 Tm (http://localhost:1235/v1/models.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 519.00 m 539.00 519.00 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 506.00 Tm (Thinking text mixed into the normal) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 493.50 Tm (answer.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 506.00 Tm (Reasoning separation) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 493.50 Tm (disabled.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 506.00 Tm (Enable the separate reasoning_content) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 493.50 Tm (setting \(Step 1.4\).) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 487.00 m 539.00 487.00 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 474.00 Tm (Generation is very slow.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 474.00 Tm (Expert weights partially held) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 461.50 Tm (in system RAM; low free) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 449.00 Tm (system RAM.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 474.00 Tm (Close memory-intensive applications;) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 461.50 Tm (reduce Context Length to 24,576; as a last) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 449.00 Tm (resort use a Q4_K_S or Q3_K_L quant) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 436.50 Tm (\(fully GPU-resident, but Q3 measurably) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 424.00 Tm (degrades tool-call reliability\).) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 417.50 m 539.00 417.50 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 404.50 Tm (Extension cannot connect although) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 392.00 Tm (curl works.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 404.50 Tm (Wrong Base URL in Cline.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 404.50 Tm (Base URL must be http://localhost:1235/v1) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 392.00 Tm (including the /v1 suffix \(Step 3\).) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 385.50 m 539.00 385.50 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 372.50 Tm (Push fails with an authentication) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 360.00 Tm (error or prompts every time.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 372.50 Tm (Stale or missing credential in) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 360.00 Tm (Windows Credential) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 347.50 Tm (Manager.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 372.50 Tm (Remove entries beginning with 'git:' in) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 360.00 Tm (Credential Manager, then push again to) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 347.50 Tm (trigger a fresh browser sign-in \(Step 7.2) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 335.00 Tm (and 7.4\).) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 328.50 m 539.00 328.50 l S 0 0 0 RG
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 315.50 Tm (Model produces broken or missing) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 59.50 303.00 Tm (tool calls.) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 315.50 Tm (Substituted model not suited) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 303.00 Tm (to Cline \(for example) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 290.50 Tm (gpt-oss-20b, DeepSeek-R1) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 223.72 278.00 Tm (distills, 7B-class models\).) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 315.50 Tm (Use qwen/qwen3-30b-a3b-thinking-2507) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 303.00 Tm (as recommended; Cline demands reliable) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 9.5 Tf 1 0 0 1 354.13 290.50 Tm (structured tool calls.) Tj ET 0 0 0 rg
+0.82 0.82 0.82 RG 0.40 w 56.00 271.50 m 539.00 271.50 l S 0 0 0 RG
+0.06 0.16 0.33 rg BT /F2 14.0 Tf 1 0 0 1 56.00 254.50 Tm (Key Sources) Tj ET 0 0 0 rg
+0.06 0.16 0.33 RG 0.90 w 56.00 249.50 m 539.00 249.50 l S 0 0 0 RG
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 232.50 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 232.50 Tm (Cline documentation, Run Cline with local models \(Use Compact Prompt\):) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 218.80 Tm (docs.cline.bot/running-models-locally/overview) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 201.60 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 201.60 Tm (Cline documentation, Auto Approve and YOLO Mode: docs.cline.bot/features/auto-approve) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 184.40 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 184.40 Tm (Cline blog, 'Cline + LM Studio: the local coding stack' \(context window, KV cache quantization off,) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 170.70 Tm (4-bit guidance\): cline.bot/blog/local-models) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 153.50 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 153.50 Tm (LM Studio documentation, Server Settings \(Server Port, Require Authentication, Enable CORS, JIT) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 139.80 Tm (loading\): lmstudio.ai/docs/developer/core/server/settings) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 122.60 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 122.60 Tm (LM Studio model page qwen3-30b-a3b-thinking-2507 \(Trained for tool use; Reasoning; 17 GB) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 108.90 Tm (minimum system memory\): lmstudio.ai/models/qwen/qwen3-30b-a3b-thinking-2507) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 91.70 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 91.70 Tm (LM Studio API changelog \(separate reasoning_content setting\):) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 78.00 Tm (lmstudio.ai/docs/developer/api-changelog) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 56.00 40.00 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 512.06 40.00 Tm (Page 7) Tj ET 0 0 0 rg
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 4690 >>
+stream
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 778.00 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 778.00 Tm (Bionic changelog 1.1.8 \(lms compatibility with Bionic\): lmstudio.ai/changelog/bionic-v1.1.8) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 760.80 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 760.80 Tm (Cline issue tracker, issue #10016 \(empty model id / 'Too small' validation failure with the LM Studio) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 747.10 Tm (provider\)) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 729.90 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 729.90 Tm (aicoderscope, 'LM Studio Bionic as a Coding Agent in 2026' \(Cline provider base URL, >25k context) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 716.20 Tm (for agentic tools, missing API-key field cline#9668\):) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 702.50 Tm (aicoderscope.com/blog/lm-studio-bionic-coding-agent-privacy-guide-2026) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 685.30 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 685.30 Tm (dev.to \(Jovan Chan\), 'Cline + LM Studio 2026: complete setup guide, the 32k context trap') Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 668.10 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 668.10 Tm (VDF AI, 'Best Local LLM for Agents and Tool Calling' \(October 2026 shortlist by VRAM tier\):) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 654.40 Tm (vdf.ai/blog/best-local-llm-for-agents-tool-calling) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 637.20 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 637.20 Tm (modelfit, 'Best Local LLMs for Cline \(2026 Tier List\)' \(tool-call reliability, Q4_K_M floor, Q3) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 623.50 Tm (degradation\): modelfit.io/tools/cline) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 606.30 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 606.30 Tm (Community reports on gpt-oss in Cline \(r/CLine; AMD model-testing thread; Cline team statement on) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 592.60 Tm (gpt-oss tool-call incompatibility\)) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 575.40 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 575.40 Tm (VS Code documentation, 'Work with GitHub in VS Code' \(built-in GitHub authentication, browser) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 561.70 Tm (sign-in on push\): code.visualstudio.com/docs/sourcecontrol/github) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 544.50 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 544.50 Tm (Git documentation, 'Git credential helpers' \(Git Credential Manager included with Git for Windows;) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 530.80 Tm (OAuth opens a browser; Windows Credential Manager storage\): git-scm.com/doc/credential-helpers) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 513.60 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 513.60 Tm (WindowsForum tutorial, 'Git for Windows: Reset Stale HTTPS Credentials' \(helper name 'manager',) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 499.90 Tm (default store wincredman, removing stale git: entries\)) Tj ET 0 0 0 rg
+0.06 0.16 0.33 rg BT /F1 10.5 Tf 1 0 0 1 60.00 482.70 Tm (•) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 482.70 Tm (Stack Overflow, Git Credential Manager auth-mode chooser \(Web browser / Device code / PAT;) Tj ET 0 0 0 rg
+0.00 0.00 0.00 rg BT /F1 10.5 Tf 1 0 0 1 72.00 469.00 Tm (credential.gitHubAuthModes browser; credential.guiPrompt false\)) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 445.80 Tm (Guide compiled on October 29, 2026; updated November 4, 2026 \(OpenAI Compatible provider validated;) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 432.60 Tm (GitHub push workflow added\). Tool versions move quickly; if a menu label deviates, the setting names) Tj ET 0 0 0 rg
+0.23 0.23 0.23 rg BT /F3 10.0 Tf 1 0 0 1 66.00 419.40 Tm (above follow the official documentation as of this date.) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 56.00 40.00 Tm (Local AI Coding Agent in VS Code: Complete Setup Guide) Tj ET 0 0 0 rg
+0.45 0.45 0.45 rg BT /F1 8.5 Tf 1 0 0 1 512.06 40.00 Tm (Page 8) Tj ET 0 0 0 rg
+endstream
 endobj
 xref
-0 19
+0 23
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000156 00000 n 
-0000000253 00000 n 
-0000000355 00000 n 
-0000000450 00000 n 
-0000000555 00000 n 
-0000008962 00000 n 
-0000009124 00000 n 
-0000017765 00000 n 
-0000017928 00000 n 
-0000025354 00000 n 
-0000025518 00000 n 
-0000032989 00000 n 
-0000033153 00000 n 
-0000043700 00000 n 
-0000043864 00000 n 
-0000045120 00000 n 
+0000000169 00000 n 
+0000000266 00000 n 
+0000000368 00000 n 
+0000000473 00000 n 
+0000000568 00000 n 
+0000000724 00000 n 
+0000009093 00000 n 
+0000009250 00000 n 
+0000017053 00000 n 
+0000017211 00000 n 
+0000024997 00000 n 
+0000025155 00000 n 
+0000032335 00000 n 
+0000032493 00000 n 
+0000039487 00000 n 
+0000039645 00000 n 
+0000046712 00000 n 
+0000046870 00000 n 
+0000058290 00000 n 
+0000058448 00000 n 
 trailer
-<< /Size 19 /Root 1 0 R /Info << /Title (Local AI Coding Agent in VS Code - Setup Guide) /Author (Vibe) >> >>
+<< /Size 23 /Root 1 0 R >>
 startxref
-45284
+63190
 %%EOF
